@@ -2,7 +2,7 @@
  * config.h
  *
  *  Automatically created by Lishui Parameter Configurator
- *  Author: stancecoke
+ *  Author: stancecoke 
  */
 
 #ifndef CONFIG_H_
