@@ -105,7 +105,7 @@
 //Display settings
 //#define DISPLAY_TYPE DISPLAY_TYPE_DEBUG
 //#define DISPLAY_TYPE DISPLAY_TYPE_KUNTENG
-#define DISPLAY_TYPE DISPLAY_TYPE_KINGMETER
+#define DISPLAY_TYPE DISPLAY_TYPE_KINGMETER_618U
 
 //---------------------------------------------------------------------
 //Regen settings
